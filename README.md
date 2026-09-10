@@ -9,7 +9,7 @@
 <h3 align="center"><code>Full-Stack Developer</code> · <code>Python Developer</code> · <code>Data &amp; AI Enthusiast</code></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=6C8CFF&center=true&vCenter=true&width=760&lines=Building+real-world+applications+%F0%9F%9A%80;Learning+Python+%26+Data+Science+%F0%9F%90%8D;Exploring+Machine+Learning+%26+AI+%F0%9F%A4%96;Turning+ideas+into+working+products+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&lines=Building+real-world+applications+%F0%9F%9A%80;Learning+Python+%26+Data+Science+%F0%9F%90%8D;Exploring+Machine+Learning+%26+AI+%F0%9F%A4%96;Turning+ideas+into+working+products+%E2%9A%A1" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -196,7 +196,7 @@ class SiddharthBhardwaj:
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sid1312dharth/sid1312dharth/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/sid1312dharth/sid1312dharth/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
@@ -301,6 +301,6 @@ FULL-STACK WEB DEVELOPMENT
 
 <p align="center">
   <strong>⭐ If you find something useful in my repositories, consider giving it a star.</strong><br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=100&section=footer" alt="Footer"/><br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=100&section=footer" alt="Footer"/><br/><br/>
   <strong>Building the future one commit at a time. 🚀</strong>
 </p>
