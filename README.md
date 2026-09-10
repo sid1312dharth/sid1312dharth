@@ -183,12 +183,12 @@ class SiddharthBhardwaj:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid1312dharth&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1312dharth&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sid1312dharth&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github&amp;include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1312dharth&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sid1312dharth&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sid1312dharth&amp;theme=tokyonight&amp;hide_border=true" />
 </p>
 
 ---
