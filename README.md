@@ -1,10 +1,6 @@
 <p align="center">
-  <a href="https://github.com/sid1312dharth">
-    <img src="./assets/profile-banner.png" alt="Siddharth Bhardwaj — Full-Stack Developer" width="100%"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:24283b,100:7AA2F7&height=200&section=header&text=Siddharth%20Bhardwaj&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="Header"/>
 </p>
-
-<h1 align="center">👨‍💻 Siddharth Bhardwaj</h1>
 
 <h3 align="center"><code>Full-Stack Developer</code> · <code>Python Developer</code> · <code>Data &amp; AI Enthusiast</code></h3>
 
@@ -183,12 +179,12 @@ class SiddharthBhardwaj:
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid1312dharth&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;rank_icon=github&amp;include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1312dharth&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sid1312dharth&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1a1b26&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1312dharth&layout=compact&hide_border=true&theme=tokyonight&bg_color=1a1b26&langs_count=8" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sid1312dharth&amp;theme=tokyonight&amp;hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sid1312dharth&theme=tokyonight&hide_border=true&background=1a1b26" />
 </p>
 
 ---
@@ -301,6 +297,6 @@ FULL-STACK WEB DEVELOPMENT
 
 <p align="center">
   <strong>⭐ If you find something useful in my repositories, consider giving it a star.</strong><br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB9AF7,100:7AA2F7&height=100&section=footer" alt="Footer"/><br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1a1b26&height=100&section=footer" alt="Footer"/><br/><br/>
   <strong>Building the future one commit at a time. 🚀</strong>
 </p>
