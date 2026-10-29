@@ -86,10 +86,13 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid1312dharth&show_icons=true&hide_border=true&theme=tokyonight&bg_color=1a1b26&include_all_commits=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1312dharth&layout=compact&hide_border=true&theme=tokyonight&bg_color=1a1b26&langs_count=6" height="170" alt="Top languages"/>
-</p>
+
+<div align="center">
+
+[![GitHub Stats](https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/api?username=sid1312dharth&show_icons=true&theme=tokyonight&bg_color=1a1b26&include_all_commits=true&count_private=true)](https://github.com/sid1312dharth)
+[![Top Languages](https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=sid1312dharth&layout=compact&theme=tokyonight&bg_color=1a1b26&langs_count=6)](https://github.com/sid1312dharth)
+
+</div>
 
 ---
 
