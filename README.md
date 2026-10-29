@@ -89,7 +89,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/api?username=sid1312dharth&show_icons=true&theme=tokyonight&bg_color=1a1b26&include_all_commits=true&count_private=true)](https://github.com/sid1312dharth)
+[![GitHub Stats]([https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/api?username=sid1312dharth](https://sid1312dharth.vercel.app/)&show_icons=true&theme=tokyonight&bg_color=1a1b26&include_all_commits=true&count_private=true)](https://github.com/sid1312dharth)
 [![Top Languages](https://YOUR-NEW-VERCEL-DOMAIN.vercel.app/api/top-langs/?username=sid1312dharth&layout=compact&theme=tokyonight&bg_color=1a1b26&langs_count=6)](https://github.com/sid1312dharth)
 
 </div>
